@@ -1,0 +1,63 @@
+h1{
+    text-align:center;
+    color:green;
+    background-color:red;
+    border-radius:10px;
+}
+p{
+    color:red;
+   font-size:30px;
+}
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueY76eKsyTDo-CmeJ_oBaVYlVOOk1Oq7y3jlUfg2-y4kTiRwPnur2MT53uxeGu66JOW0&usqp=CAU");
+}
+a{
+    font-size:20px;
+    padding:10px 25px;
+    border-radius:10px;
+}
+img{
+    width:200px;
+}
+table{
+    font-size: 24px;
+    color:purple;
+}
+
+td{
+    border: 1px solid ;
+}
+.mose{
+    border: 10px solid yellow;
+}
+.brin{
+   border: 10px solid darkblue; 
+}
+.do{
+    border: 10px solid green;
+}
+.paws{
+    color:orange;
+}
+.Master{
+   color:purple; 
+}
+.by{
+    color: black;
+}
+.pikture{
+    border-radius:10px;
+    border: 10px solid blueviolet;
+}
+.clube{
+   background-color:green;
+    color:white;
+    padding:10px 25px;
+    border-radius:10px; 
+}
+.zoo{
+  background-color:purple;
+    color:white;
+    padding:10px 25px;
+    border-radius:10px;   
+}
